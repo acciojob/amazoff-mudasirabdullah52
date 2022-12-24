@@ -1,5 +1,8 @@
 package com.driver;
 
+import lombok.ToString;
+
+@ToString
 public class Order {
 
     private String id;
